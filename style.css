@@ -19,6 +19,9 @@ nav{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   margin-left: 1rem;
 }
+.log-in:hover{
+    border: 2px solid white;
+}
 
 .log-in{
     width: 70px;
@@ -27,5 +30,8 @@ nav{
     color: white;
     border: none;
     border-radius: 4px;
-    margin-left: 55rem;
+    margin-left: 4rem;
+}
+.hover{
+    color: orangered;
 }
